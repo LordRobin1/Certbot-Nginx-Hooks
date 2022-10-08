@@ -1,0 +1,13 @@
+C:\Users\Robin\Desktop\coding\C#\nginxHooks\preHook\bin\Release\netcoreapp3.1\preHook.exe
+C:\Users\Robin\Desktop\coding\C#\nginxHooks\preHook\bin\Release\netcoreapp3.1\preHook.deps.json
+C:\Users\Robin\Desktop\coding\C#\nginxHooks\preHook\bin\Release\netcoreapp3.1\preHook.runtimeconfig.json
+C:\Users\Robin\Desktop\coding\C#\nginxHooks\preHook\bin\Release\netcoreapp3.1\preHook.runtimeconfig.dev.json
+C:\Users\Robin\Desktop\coding\C#\nginxHooks\preHook\bin\Release\netcoreapp3.1\preHook.dll
+C:\Users\Robin\Desktop\coding\C#\nginxHooks\preHook\bin\Release\netcoreapp3.1\preHook.pdb
+C:\Users\Robin\Desktop\coding\C#\nginxHooks\preHook\obj\Release\netcoreapp3.1\preHook.csprojAssemblyReference.cache
+C:\Users\Robin\Desktop\coding\C#\nginxHooks\preHook\obj\Release\netcoreapp3.1\preHook.AssemblyInfoInputs.cache
+C:\Users\Robin\Desktop\coding\C#\nginxHooks\preHook\obj\Release\netcoreapp3.1\preHook.AssemblyInfo.cs
+C:\Users\Robin\Desktop\coding\C#\nginxHooks\preHook\obj\Release\netcoreapp3.1\preHook.csproj.CoreCompileInputs.cache
+C:\Users\Robin\Desktop\coding\C#\nginxHooks\preHook\obj\Release\netcoreapp3.1\preHook.dll
+C:\Users\Robin\Desktop\coding\C#\nginxHooks\preHook\obj\Release\netcoreapp3.1\preHook.pdb
+C:\Users\Robin\Desktop\coding\C#\nginxHooks\preHook\obj\Release\netcoreapp3.1\preHook.genruntimeconfig.cache
