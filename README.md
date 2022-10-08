@@ -1,6 +1,7 @@
 # Certbot Custom Hooks (Windows)
 Simple C# scripts that will stop the nginx process for the certificate renewal and start it again afterwards.
 
+**Currently only works if the nginx path is C\\:nginx-1.23.0**
 ## Usage
 You will find both `.exe` files in the path <br/> 
 `Certbot-Nginx-Hooks/hook/bin/Release/netcoreapp3.1/hook.exe` <br/>
