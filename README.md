@@ -23,6 +23,8 @@ You have to specify the directory of your `nginx.exe` (for example: `C:\nginx-1.
         "NginxPath": "your-nginx-path"
     }
 }
-```
+``` 
+</br>
 
 Start your nginx server, then do a `certbot renew --dry-run` to verify that everything works as expected.
+</br>
