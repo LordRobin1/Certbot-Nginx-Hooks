@@ -1,8 +1,25 @@
 {
   "version": 2,
-  "dgSpecHash": "8DlC8o7BHt+416ev9mJ6I8ifSGwt3KoeJAdk/t3alKLDVH/joQ+gdpsJh1C18ciBxJg2kPYikTdc3MfAnp3yag==",
+  "dgSpecHash": "mCWPHcJYbz2pFltxe+mG8I9id8zCDtIautpXvIIq2QmdSU6Fu/9dI4Hjoj4+NVajIVSaYHF+5PcVwpIIM9t5Qg==",
   "success": true,
   "projectFilePath": "C:\\Users\\Robin\\Desktop\\coding\\C#\\nginxHooks\\preHook\\preHook.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\Robin\\.nuget\\packages\\microsoft.bcl.asyncinterfaces\\7.0.0-rc.2.22472.3\\microsoft.bcl.asyncinterfaces.7.0.0-rc.2.22472.3.nupkg.sha512",
+    "C:\\Users\\Robin\\.nuget\\packages\\microsoft.extensions.configuration\\7.0.0-rc.2.22472.3\\microsoft.extensions.configuration.7.0.0-rc.2.22472.3.nupkg.sha512",
+    "C:\\Users\\Robin\\.nuget\\packages\\microsoft.extensions.configuration.abstractions\\7.0.0-rc.2.22472.3\\microsoft.extensions.configuration.abstractions.7.0.0-rc.2.22472.3.nupkg.sha512",
+    "C:\\Users\\Robin\\.nuget\\packages\\microsoft.extensions.configuration.fileextensions\\7.0.0-rc.2.22472.3\\microsoft.extensions.configuration.fileextensions.7.0.0-rc.2.22472.3.nupkg.sha512",
+    "C:\\Users\\Robin\\.nuget\\packages\\microsoft.extensions.configuration.json\\7.0.0-rc.2.22472.3\\microsoft.extensions.configuration.json.7.0.0-rc.2.22472.3.nupkg.sha512",
+    "C:\\Users\\Robin\\.nuget\\packages\\microsoft.extensions.fileproviders.abstractions\\7.0.0-rc.2.22472.3\\microsoft.extensions.fileproviders.abstractions.7.0.0-rc.2.22472.3.nupkg.sha512",
+    "C:\\Users\\Robin\\.nuget\\packages\\microsoft.extensions.fileproviders.physical\\7.0.0-rc.2.22472.3\\microsoft.extensions.fileproviders.physical.7.0.0-rc.2.22472.3.nupkg.sha512",
+    "C:\\Users\\Robin\\.nuget\\packages\\microsoft.extensions.filesystemglobbing\\7.0.0-rc.2.22472.3\\microsoft.extensions.filesystemglobbing.7.0.0-rc.2.22472.3.nupkg.sha512",
+    "C:\\Users\\Robin\\.nuget\\packages\\microsoft.extensions.primitives\\7.0.0-rc.2.22472.3\\microsoft.extensions.primitives.7.0.0-rc.2.22472.3.nupkg.sha512",
+    "C:\\Users\\Robin\\.nuget\\packages\\system.buffers\\4.5.1\\system.buffers.4.5.1.nupkg.sha512",
+    "C:\\Users\\Robin\\.nuget\\packages\\system.memory\\4.5.5\\system.memory.4.5.5.nupkg.sha512",
+    "C:\\Users\\Robin\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512",
+    "C:\\Users\\Robin\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\6.0.0\\system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512",
+    "C:\\Users\\Robin\\.nuget\\packages\\system.text.encodings.web\\7.0.0-rc.2.22472.3\\system.text.encodings.web.7.0.0-rc.2.22472.3.nupkg.sha512",
+    "C:\\Users\\Robin\\.nuget\\packages\\system.text.json\\7.0.0-rc.2.22472.3\\system.text.json.7.0.0-rc.2.22472.3.nupkg.sha512",
+    "C:\\Users\\Robin\\.nuget\\packages\\system.threading.tasks.extensions\\4.5.4\\system.threading.tasks.extensions.4.5.4.nupkg.sha512"
+  ],
   "logs": []
 }

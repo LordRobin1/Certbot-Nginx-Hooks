@@ -35,6 +35,12 @@
       },
       "frameworks": {
         "netcoreapp3.1": {
+          "dependencies": {
+            "Microsoft.Extensions.Configuration.Json": {
+              "target": "Package",
+              "version": "[7.0.0-rc.2.22472.3, )"
+            }
+          },
           "imports": [
             "net461",
             "net462",
